@@ -35,7 +35,7 @@ input[type=text]{
   box-sizing: border-box;
 }
 
-span{
+span.a{
   color:#ff0000;
 }
 
